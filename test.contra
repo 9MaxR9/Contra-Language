@@ -1,0 +1,18 @@
+var testbool = true;
+var testnumber = 2;
+var testnumber2 = 2;
+#testnumber = testnumber2;
+printf testnumber;
+printf "----------------";
+if testnumber == testnumber {
+if testnumber == testnumber {
+printf "testboolnotequals";
+}
+printf "test";
+var test = 3;
+printf test;
+printf "test";
+}
+printf "----------------------";
+printf "test";
+printf "testetstets";
